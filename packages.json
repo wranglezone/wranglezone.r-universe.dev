@@ -2,5 +2,9 @@
     {
         "package": "hrmn",
         "url": "https://github.com/wranglezone/hrmn"
+    },
+    {
+        "package": "stbl",
+        "url": "https://github.com/wranglezone/stbl"
     }
 ]
