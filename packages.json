@@ -6,5 +6,9 @@
     {
         "package": "stbl",
         "url": "https://github.com/wranglezone/stbl"
+    },
+    {
+        "package": "tibblify",
+        "url": "https://github.com/wranglezone/tibblify"
     }
 ]
